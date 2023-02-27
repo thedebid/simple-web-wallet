@@ -78,6 +78,11 @@ const networks = [
     name: 'rinkeby',
     url: 'https://goerli.infura.io/v3/ae22018377b14a61983be979df457b20',
     display: 'Rinkeby',
+  }, 
+  {
+    name: 'polygon',
+    url: 'https://rpc-mumbai.maticvigil.com',
+    display: 'Polygon (MATIC)',
   },
 ];
 
